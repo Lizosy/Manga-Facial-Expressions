@@ -1,6 +1,8 @@
 # Manga-Facial-Expressions-1000 
 Model machine learning สำหรับแยกแยะอารมณ์สีหน้าของตัวละครใน manga จากสีหน้า 
 
+---
+
 # Data ที่นำมาใช้ 
 - https://www.kaggle.com/datasets/davidgamalielarcos/manga-faces-datase
 
