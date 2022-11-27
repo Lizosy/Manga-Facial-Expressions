@@ -1,5 +1,5 @@
-# Transfer-Learning-for-Manga-Facial-Expressions-1000 
-Model machine learning สำหรับแยกแยะ
+# Manga-Facial-Expressions-1000 
+Model machine learning สำหรับแยกแยะอารมณ์สีหน้าของตัวละครใน manga จากสีหน้า 
 
 # Data ที่นำมาใช้ 
 - 
