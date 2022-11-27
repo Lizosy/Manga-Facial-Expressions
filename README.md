@@ -2,9 +2,9 @@
 Model machine learning สำหรับแยกแยะอารมณ์สีหน้าของตัวละครใน manga จากสีหน้า 
 
 # Data ที่นำมาใช้ 
-- 
+- https://www.kaggle.com/datasets/davidgamalielarcos/manga-faces-datase
 
-
+---
 
 This notebook referred to the following notebook.
 https://www.kaggle.com/pierrelouisdanieau/transfer-learning-on-images-with-tensorflow
