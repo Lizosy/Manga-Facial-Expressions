@@ -8,8 +8,7 @@ Model machine learning สำหรับแยกแยะอารมณ์ส
 
 ---
 
-This notebook referred to the following notebook.
-https://www.kaggle.com/pierrelouisdanieau/transfer-learning-on-images-with-tensorflow
+
 
 
 Prepare ImageDataGenerator
