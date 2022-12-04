@@ -3,10 +3,7 @@ Model machine learning สำหรับแยกแยะอารมณ์ส
 
 ---
 
-# Data ที่นำมาใช้ 
-- https://www.kaggle.com/datasets/davidgamalielarcos/manga-faces-dataset
 
----
 
 
 
